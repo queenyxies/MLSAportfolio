@@ -27088,7 +27088,7 @@ var _stylesCss = require("./styles.css");
  * If you don't have one of the social sites listed, leave it as an empty string.
  */ const siteProps = {
     name: "Mary Queen Casaclang",
-    title: "IT Student",
+    title: "IT Student & Microsoft Learn Student Ambassador",
     email: "MaryQueen.Casaclang@studentambassadors.com",
     gitHub: "queenyxies",
     instagram: "queenyxies",
