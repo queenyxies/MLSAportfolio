@@ -22,7 +22,7 @@ import PropTypes from "prop-types";
  */
 import image from "../images/queen_home.png";
 
-const imageAltText = "Adult female in office setting leaning against a glass wall while holding a platinum Microsoft Surface Pro 7 in tablet mode preparing to write with Microsoft Surface Pen";
+const imageAltText = "Picture of Mary Queen Casaclang with MLSA logo";
 
 const Home = ({ name, title }) => {
   return (
