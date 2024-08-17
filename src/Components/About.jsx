@@ -24,7 +24,7 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm an IT student from Bulacan State University in the Philippines with a passion in pioneering innovation through technology.";
+  "I'm a Web and Mobile Application Developer with a passion in pioneering innovation through technology.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
@@ -32,11 +32,11 @@ const description =
  */
 const skillsList = [
   "UI/UX Design",
-  "Web Development",
+  "Web Application Development",
+  "Game Development (Unity)",
   "Mobile Application Developemnt",
-  "Game Development",
   "Digital Art",
-  "Three.js",
+  "Three.js & 3D Modeling",
 ];
 
 /**

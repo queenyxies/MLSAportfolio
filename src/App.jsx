@@ -25,8 +25,8 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Mary Queen Casaclang",
-  title: "Information Technology Student",
-  email: "MaryQueen.Casaclang@studentambassadors.com",
+  title: "Web and Mobile Application Developer",
+  email: "queenycasaclang@gmail.com",
   gitHub: "queenyxies",
   instagram: "queenyxies",
   linkedIn: "queenyxies",

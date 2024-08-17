@@ -33,14 +33,32 @@ const projectList = [
   {
     title: "Purrfect Code",
     description:
-      "An educational RPG game about Java programming made through Unity",
-    url: "https://github.com/queenyxies/Purrfect-Code",
+      "An educational pixel (top-down) RPG game about Java programming made through Unity.",
+    url: "https://drive.google.com/file/d/1-r_9tqWarWsGtOzBut9ye_WeBbu545he/view?usp=sharing",
   },
   {
     title: "Payroll System with Database",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
+      "A simple payroll system utilizing Java and MySQL for database",
     url: "https://github.com/queenyxies/Payroll-System-with-Database",
+  },
+  {
+    title: "SOAR: A Seat-Occupancy and Reservation System Using RFID Technology and 3D Visualization for Bulacan State University E-Library",
+    description:
+      "Web app that utilizes PHP, JavaScript, CSS, HTML, Bootstrap, and Three.js.",
+    url: "https://drive.google.com/file/d/1TkrZPJdiXPotWgRE_oqgL7BOUOn5hBGE/view",
+  },
+  {
+    title: "CommuniTask",
+    description:
+      "A mobile application that provides microjob opportunities for the local community in Malolos. It utilizes Typescript, ReactJS, and React Native",
+    url: "https://drive.google.com/file/d/1oMZZIsxy14936hbQImF67O11xsTv5srC/view?usp=sharing",
+  },
+  {
+    title: "Weather Web App",
+    description:
+      "A React weather app for real-time updates on temperature, humidity, and wind speed using OpenWeatherMap API.",
+    url: "https://github.com/queenyxies/react-Weather-WebApp",
   },
   {
     title: "Simple PingPong Game",
@@ -49,11 +67,17 @@ const projectList = [
     url: "https://github.com/queenyxies/SimplePingPong",
   },
   {
-    title: "Weather Web App",
+    title: "Pokedex",
     description:
-      "A React weather app for real-time updates on temperature, humidity, and wind speed using OpenWeatherMap API.",
-    url: "https://github.com/queenyxies/react-Weather-WebApp",
+      "A Pokedex mobile application utilizing Java and Pokemon API",
+    url: "https://github.com/queenyxies/Pokedex",
   },
+  {
+    title: "Harry Potter App",
+    description:
+      "A mobile application utilizing Java and Harry Potter API",
+    url: "https://drive.google.com/file/d/1L8zK5Box4mhD2OsEIX6LZw3x1hk-2WP7/view?usp=sharing",
+  }
 ];
 
 const Portfolio = () => {
